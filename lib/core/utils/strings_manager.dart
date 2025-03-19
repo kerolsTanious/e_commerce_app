@@ -1,0 +1,36 @@
+abstract class StringManager {
+  static const String categories = "Categories";
+  static const String viewAll = "view all";
+  static const String brands = "Brands";
+  static const String bestSeller = "BestSeller";
+  static const String review = "Review";
+  static const String welcomeMessage = "Welcome Back To SnapBuy";
+  static const String pleaseSignIn = "Please sign in with your mail";
+  static const String eMailAddress = "E-mail address";
+  static const String enterYourEmailAddress = "enter your email address";
+  static const String enterYourPassword = "enter your password";
+  static const String password = "Password";
+  static const String confirmPassword = "Confirm Password";
+  static const String emptyEmail = "Email field cannot be empty";
+  static const String notValidEmail = "Enter a valid email";
+  static const String emptyPassword = "Password field cannot be empty";
+  static const String notValidPassword = "Enter valid password Minimum 1 Upper case \n Minimum 1 lowercase \n Minimum 1 lowercase \n Minimum 1 Numeric Number \n Minimum 1 Special Character \n Common Allow Character ( ! @ # \$ & * ~ )";
+  static const String shortPassword = "Enter a valid password";
+  static const String login = "Login";
+  static const String signUp = "Sign Up";
+  static const String dontHaveAccount = "Don’t have an account?  ";
+  static const String createAccount = "Create Account";
+  static const String fullName = "Full Name";
+  static const String enterYourFullName = "enter your full name";
+  static const String mobileNumber = "Mobile Number";
+  static const String enterYourMobileNo = "enter your mobile no.";
+  static const String emptyFullName = "Email field cannot be empty";
+  static const String emptyMobilNumber = "Mobile Number field cannot be empty";
+  static const String notValidMobileNumber = "Entre a valid Number";
+  static const String dontMatchPassword = " Don't Match Password";
+  static const String emptyConfirmPassword = "Confirm Password Field cannot be empty";
+  static const String loginSuccessfully = "Login Successfully";
+  static const String cart = "Cart";
+  static const String totalPrice = "Total price";
+  static const String checkOut = "Check Out";
+}
